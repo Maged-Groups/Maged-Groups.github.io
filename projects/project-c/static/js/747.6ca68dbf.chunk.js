@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkapp_001=self.webpackChunkapp_001||[]).push([[747],{747:(e,a,n)=>{n.r(a),n.d(a,{default:()=>r});var p=n(579);function r(){return(0,p.jsx)("div",{children:"Single User Page"})}}}]);
+//# sourceMappingURL=747.6ca68dbf.chunk.js.map
