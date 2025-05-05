@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/747.6ca68dbf.chunk.js","mappings":"2IAAe,SAASA,IACpB,OAAOC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,oBAGhB,C","sources":["pages/users/User.jsx"],"sourcesContent":["export default function User() {\r\n    return <div>\r\n        Single User Page\r\n    </div>\r\n}"],"names":["User","_jsx","children"],"sourceRoot":""}

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkapp_001=self.webpackChunkapp_001||[]).push([[252],{252:(s,e,t)=>{t.a(s,(async(s,n)=>{try{t.r(e),t.d(e,{default:()=>h});var c=t(579);const r="https://dummyjson.com/users",{users:u}=await fetch(r).then((s=>s.json())).then((s=>s));function h(){return(0,c.jsx)("div",{children:"All Users"})}console.log(u),n()}catch(a){n(a)}}),1)}}]);
-//# sourceMappingURL=252.4f90be18.chunk.js.map
