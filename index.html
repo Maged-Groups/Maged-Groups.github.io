@@ -1,14 +1,69 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>3460-app-004</title>
-    <script type="module" crossorigin src="/assets/index-Dv4W1-ja.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-DZxbj4EQ.css">
-  </head>
-  <body>
-    <div id="root"></div>
-  </body>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maged Groups | Portfolio</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 18px;
+            background-color: #eee;
+        }
+
+        .projects {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            justify-content: center;
+            padding: 16px;
+
+            >div {
+                border: solid 2px #334;
+
+                background-color: #dedede;
+                padding: 8px;
+                border-radius: 8px;
+
+                img {
+                    max-width: 100%;
+                }
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>My Portfolio</h1>
+
+    <div class="projects">
+        <div>
+            <img src="public/imgs/project-a.jpg" alt="">
+            <h2>Project Title</h2>
+        </div>
+        <div>
+            <img src="public/imgs/project-a.jpg" alt="">
+            <h2>Project Title</h2>
+        </div>
+        <div>
+            <img src="public/imgs/project-a.jpg" alt="">
+            <h2>Project Title</h2>
+        </div>
+        <div>
+            <img src="public/imgs/project-a.jpg" alt="">
+            <h2>Project Title</h2>
+        </div>
+    </div>
+
+</body>
+
 </html>
